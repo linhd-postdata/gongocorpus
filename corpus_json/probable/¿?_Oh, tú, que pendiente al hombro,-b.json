@@ -1,0 +1,2221 @@
+{
+    "author": "Góngora, Luis de",
+    "authorship": "probable",
+    "incipit": "Oh, tú, que pendiente al hombro,-b",
+    "year": "¿?",
+    "text": "Oh, tú, que pendiente al hombro,\nla aljaba ostentas, de Amor,\nque le hurtaste dormido,\nque despierto te ofreció.\n¿Qué piensas que fue tu hurto?\n¿Qué piensas que fue tu don?\nDesabrocha mi silencio,\ncuando mi pellico no.\nVerás, negando, mi pecho,\nlas plumas del ciego dios;\nverás, bebiendo, sus puntas,\nla sangre del corazón.\nTodas me las flechó el día\nque tu desdén lo halló,\nsi por la venda una vez,\nciego, por el sueño, dos.\nNo las ignoras, aunque\nlas señas de tu rigor,\nsano las niega el pellico,\nmudo las desmiento yo.",
+    "scanned_poem": [
+        {
+            "tokens": [
+                {
+                    "word": [
+                        {
+                            "syllable": "Oh",
+                            "is_stressed": false,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": 0
+                },
+                {
+                    "symbol": ","
+                },
+                {
+                    "word": [
+                        {
+                            "syllable": "tú",
+                            "is_stressed": true,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": -1
+                },
+                {
+                    "symbol": ","
+                },
+                {
+                    "word": [
+                        {
+                            "syllable": "que",
+                            "is_stressed": false,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": 0
+                },
+                {
+                    "word": [
+                        {
+                            "syllable": "pen",
+                            "is_stressed": false
+                        },
+                        {
+                            "syllable": "dien",
+                            "is_stressed": true
+                        },
+                        {
+                            "syllable": "te",
+                            "is_stressed": false,
+                            "has_synalepha": true,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": -2
+                },
+                {
+                    "word": [
+                        {
+                            "syllable": "al",
+                            "is_stressed": false,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": 0
+                },
+                {
+                    "word": [
+                        {
+                            "syllable": "hom",
+                            "is_stressed": true
+                        },
+                        {
+                            "syllable": "bro",
+                            "is_stressed": false,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": -2
+                },
+                {
+                    "symbol": ","
+                }
+            ],
+            "phonological_groups": [
+                {
+                    "syllable": "Oh",
+                    "is_stressed": false,
+                    "is_word_end": true
+                },
+                {
+                    "syllable": "tú",
+                    "is_stressed": true,
+                    "is_word_end": true
+                },
+                {
+                    "syllable": "que",
+                    "is_stressed": false,
+                    "is_word_end": true
+                },
+                {
+                    "syllable": "pen",
+                    "is_stressed": false
+                },
+                {
+                    "syllable": "dien",
+                    "is_stressed": true
+                },
+                {
+                    "syllable": "teal",
+                    "is_stressed": false,
+                    "synalepha_index": [
+                        1
+                    ],
+                    "is_word_end": true
+                },
+                {
+                    "syllable": "hom",
+                    "is_stressed": true
+                },
+                {
+                    "syllable": "bro",
+                    "is_stressed": false,
+                    "is_word_end": true
+                }
+            ],
+            "rhythm": {
+                "stress": "-+--+-+-",
+                "type": "pattern",
+                "length": 8
+            }
+        },
+        {
+            "tokens": [
+                {
+                    "word": [
+                        {
+                            "syllable": "la",
+                            "is_stressed": false,
+                            "has_synalepha": true,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": 0
+                },
+                {
+                    "word": [
+                        {
+                            "syllable": "al",
+                            "is_stressed": false
+                        },
+                        {
+                            "syllable": "ja",
+                            "is_stressed": true
+                        },
+                        {
+                            "syllable": "ba",
+                            "is_stressed": false,
+                            "has_synalepha": true,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": -2
+                },
+                {
+                    "word": [
+                        {
+                            "syllable": "os",
+                            "is_stressed": false
+                        },
+                        {
+                            "syllable": "ten",
+                            "is_stressed": true
+                        },
+                        {
+                            "syllable": "tas",
+                            "is_stressed": false,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": -2
+                },
+                {
+                    "symbol": ","
+                },
+                {
+                    "word": [
+                        {
+                            "syllable": "de",
+                            "is_stressed": false,
+                            "has_synalepha": true,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": 0
+                },
+                {
+                    "word": [
+                        {
+                            "syllable": "A",
+                            "is_stressed": false
+                        },
+                        {
+                            "syllable": "mor",
+                            "is_stressed": true,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": -1
+                },
+                {
+                    "symbol": ","
+                }
+            ],
+            "phonological_groups": [
+                {
+                    "syllable": "laal",
+                    "is_stressed": false,
+                    "synalepha_index": [
+                        1
+                    ]
+                },
+                {
+                    "syllable": "ja",
+                    "is_stressed": true
+                },
+                {
+                    "syllable": "baos",
+                    "is_stressed": false,
+                    "synalepha_index": [
+                        1
+                    ]
+                },
+                {
+                    "syllable": "ten",
+                    "is_stressed": true
+                },
+                {
+                    "syllable": "tas",
+                    "is_stressed": false,
+                    "is_word_end": true
+                },
+                {
+                    "syllable": "deA",
+                    "is_stressed": false,
+                    "synalepha_index": [
+                        1
+                    ]
+                },
+                {
+                    "syllable": "mor",
+                    "is_stressed": true,
+                    "is_word_end": true
+                }
+            ],
+            "rhythm": {
+                "stress": "-+-+--+-",
+                "type": "pattern",
+                "length": 8
+            }
+        },
+        {
+            "tokens": [
+                {
+                    "word": [
+                        {
+                            "syllable": "que",
+                            "is_stressed": false,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": 0
+                },
+                {
+                    "word": [
+                        {
+                            "syllable": "le",
+                            "is_stressed": false,
+                            "has_synalepha": true,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": 0
+                },
+                {
+                    "word": [
+                        {
+                            "syllable": "hur",
+                            "is_stressed": false
+                        },
+                        {
+                            "syllable": "tas",
+                            "is_stressed": true
+                        },
+                        {
+                            "syllable": "te",
+                            "is_stressed": false,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": -2
+                },
+                {
+                    "word": [
+                        {
+                            "syllable": "dor",
+                            "is_stressed": false
+                        },
+                        {
+                            "syllable": "mi",
+                            "is_stressed": true
+                        },
+                        {
+                            "syllable": "do",
+                            "is_stressed": false,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": -2
+                },
+                {
+                    "symbol": ","
+                }
+            ],
+            "phonological_groups": [
+                {
+                    "syllable": "que",
+                    "is_stressed": false,
+                    "is_word_end": true
+                },
+                {
+                    "syllable": "lehur",
+                    "is_stressed": false,
+                    "synalepha_index": [
+                        1
+                    ]
+                },
+                {
+                    "syllable": "tas",
+                    "is_stressed": true
+                },
+                {
+                    "syllable": "te",
+                    "is_stressed": false,
+                    "is_word_end": true
+                },
+                {
+                    "syllable": "dor",
+                    "is_stressed": false
+                },
+                {
+                    "syllable": "mi",
+                    "is_stressed": true
+                },
+                {
+                    "syllable": "do",
+                    "is_stressed": false,
+                    "is_word_end": true
+                }
+            ],
+            "rhythm": {
+                "stress": "--+--+-",
+                "type": "pattern",
+                "length": 7
+            }
+        },
+        {
+            "tokens": [
+                {
+                    "word": [
+                        {
+                            "syllable": "que",
+                            "is_stressed": false,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": 0
+                },
+                {
+                    "word": [
+                        {
+                            "syllable": "des",
+                            "is_stressed": false
+                        },
+                        {
+                            "syllable": "pier",
+                            "is_stressed": true
+                        },
+                        {
+                            "syllable": "to",
+                            "is_stressed": false,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": -2
+                },
+                {
+                    "word": [
+                        {
+                            "syllable": "te",
+                            "is_stressed": false,
+                            "has_synalepha": true,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": 0
+                },
+                {
+                    "word": [
+                        {
+                            "syllable": "o",
+                            "is_stressed": false
+                        },
+                        {
+                            "syllable": "fre",
+                            "is_stressed": false
+                        },
+                        {
+                            "syllable": "ció",
+                            "is_stressed": true,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": -1
+                },
+                {
+                    "symbol": "."
+                }
+            ],
+            "phonological_groups": [
+                {
+                    "syllable": "que",
+                    "is_stressed": false,
+                    "is_word_end": true
+                },
+                {
+                    "syllable": "des",
+                    "is_stressed": false
+                },
+                {
+                    "syllable": "pier",
+                    "is_stressed": true
+                },
+                {
+                    "syllable": "to",
+                    "is_stressed": false,
+                    "is_word_end": true
+                },
+                {
+                    "syllable": "teo",
+                    "is_stressed": false,
+                    "synalepha_index": [
+                        1
+                    ]
+                },
+                {
+                    "syllable": "fre",
+                    "is_stressed": false
+                },
+                {
+                    "syllable": "ció",
+                    "is_stressed": true,
+                    "is_word_end": true
+                }
+            ],
+            "rhythm": {
+                "stress": "--+---+-",
+                "type": "pattern",
+                "length": 8
+            }
+        },
+        {
+            "tokens": [
+                {
+                    "symbol": "¿"
+                },
+                {
+                    "word": [
+                        {
+                            "syllable": "Qué",
+                            "is_stressed": true,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": -1
+                },
+                {
+                    "word": [
+                        {
+                            "syllable": "pien",
+                            "is_stressed": true
+                        },
+                        {
+                            "syllable": "sas",
+                            "is_stressed": false,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": -2
+                },
+                {
+                    "word": [
+                        {
+                            "syllable": "que",
+                            "is_stressed": false,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": 0
+                },
+                {
+                    "word": [
+                        {
+                            "syllable": "fue",
+                            "is_stressed": true,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": -1
+                },
+                {
+                    "word": [
+                        {
+                            "syllable": "tu",
+                            "is_stressed": false,
+                            "has_synalepha": true,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": 0
+                },
+                {
+                    "word": [
+                        {
+                            "syllable": "hur",
+                            "is_stressed": true
+                        },
+                        {
+                            "syllable": "to",
+                            "is_stressed": false,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": -2
+                },
+                {
+                    "symbol": "?"
+                }
+            ],
+            "phonological_groups": [
+                {
+                    "syllable": "Qué",
+                    "is_stressed": true,
+                    "is_word_end": true
+                },
+                {
+                    "syllable": "pien",
+                    "is_stressed": true
+                },
+                {
+                    "syllable": "sas",
+                    "is_stressed": false,
+                    "is_word_end": true
+                },
+                {
+                    "syllable": "que",
+                    "is_stressed": false,
+                    "is_word_end": true
+                },
+                {
+                    "syllable": "fue",
+                    "is_stressed": true,
+                    "is_word_end": true
+                },
+                {
+                    "syllable": "tuhur",
+                    "is_stressed": true,
+                    "synalepha_index": [
+                        1
+                    ]
+                },
+                {
+                    "syllable": "to",
+                    "is_stressed": false,
+                    "is_word_end": true
+                }
+            ],
+            "rhythm": {
+                "stress": "++--++-",
+                "type": "pattern",
+                "length": 7
+            }
+        },
+        {
+            "tokens": [
+                {
+                    "symbol": "¿"
+                },
+                {
+                    "word": [
+                        {
+                            "syllable": "Qué",
+                            "is_stressed": true,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": -1
+                },
+                {
+                    "word": [
+                        {
+                            "syllable": "pien",
+                            "is_stressed": true
+                        },
+                        {
+                            "syllable": "sas",
+                            "is_stressed": false,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": -2
+                },
+                {
+                    "word": [
+                        {
+                            "syllable": "que",
+                            "is_stressed": false,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": 0
+                },
+                {
+                    "word": [
+                        {
+                            "syllable": "fue",
+                            "is_stressed": true,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": -1
+                },
+                {
+                    "word": [
+                        {
+                            "syllable": "tu",
+                            "is_stressed": false,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": 0
+                },
+                {
+                    "word": [
+                        {
+                            "syllable": "don",
+                            "is_stressed": false,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": 0
+                },
+                {
+                    "symbol": "?"
+                }
+            ],
+            "phonological_groups": [
+                {
+                    "syllable": "Qué",
+                    "is_stressed": true,
+                    "is_word_end": true
+                },
+                {
+                    "syllable": "pien",
+                    "is_stressed": true
+                },
+                {
+                    "syllable": "sas",
+                    "is_stressed": false,
+                    "is_word_end": true
+                },
+                {
+                    "syllable": "que",
+                    "is_stressed": false,
+                    "is_word_end": true
+                },
+                {
+                    "syllable": "fue",
+                    "is_stressed": true,
+                    "is_word_end": true
+                },
+                {
+                    "syllable": "tu",
+                    "is_stressed": false,
+                    "is_word_end": true
+                },
+                {
+                    "syllable": "don",
+                    "is_stressed": false,
+                    "is_word_end": true
+                }
+            ],
+            "rhythm": {
+                "stress": "++--+--",
+                "type": "pattern",
+                "length": 7
+            }
+        },
+        {
+            "tokens": [
+                {
+                    "word": [
+                        {
+                            "syllable": "De",
+                            "is_stressed": false
+                        },
+                        {
+                            "syllable": "sa",
+                            "is_stressed": false
+                        },
+                        {
+                            "syllable": "bro",
+                            "is_stressed": true
+                        },
+                        {
+                            "syllable": "cha",
+                            "is_stressed": false,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": -2
+                },
+                {
+                    "word": [
+                        {
+                            "syllable": "mi",
+                            "is_stressed": false,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": 0
+                },
+                {
+                    "word": [
+                        {
+                            "syllable": "si",
+                            "is_stressed": false
+                        },
+                        {
+                            "syllable": "len",
+                            "is_stressed": true
+                        },
+                        {
+                            "syllable": "cio",
+                            "is_stressed": false,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": -2
+                },
+                {
+                    "symbol": ","
+                }
+            ],
+            "phonological_groups": [
+                {
+                    "syllable": "De",
+                    "is_stressed": false
+                },
+                {
+                    "syllable": "sa",
+                    "is_stressed": false
+                },
+                {
+                    "syllable": "bro",
+                    "is_stressed": true
+                },
+                {
+                    "syllable": "cha",
+                    "is_stressed": false,
+                    "is_word_end": true
+                },
+                {
+                    "syllable": "mi",
+                    "is_stressed": false,
+                    "is_word_end": true
+                },
+                {
+                    "syllable": "si",
+                    "is_stressed": false
+                },
+                {
+                    "syllable": "len",
+                    "is_stressed": true
+                },
+                {
+                    "syllable": "cio",
+                    "is_stressed": false,
+                    "is_word_end": true
+                }
+            ],
+            "rhythm": {
+                "stress": "--+---+-",
+                "type": "pattern",
+                "length": 8
+            }
+        },
+        {
+            "tokens": [
+                {
+                    "word": [
+                        {
+                            "syllable": "cuan",
+                            "is_stressed": false
+                        },
+                        {
+                            "syllable": "do",
+                            "is_stressed": false,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": 0
+                },
+                {
+                    "word": [
+                        {
+                            "syllable": "mi",
+                            "is_stressed": false,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": 0
+                },
+                {
+                    "word": [
+                        {
+                            "syllable": "pe",
+                            "is_stressed": false
+                        },
+                        {
+                            "syllable": "lli",
+                            "is_stressed": true
+                        },
+                        {
+                            "syllable": "co",
+                            "is_stressed": false,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": -2
+                },
+                {
+                    "word": [
+                        {
+                            "syllable": "no",
+                            "is_stressed": true,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": -1
+                },
+                {
+                    "symbol": "."
+                }
+            ],
+            "phonological_groups": [
+                {
+                    "syllable": "cuan",
+                    "is_stressed": false
+                },
+                {
+                    "syllable": "do",
+                    "is_stressed": false,
+                    "is_word_end": true
+                },
+                {
+                    "syllable": "mi",
+                    "is_stressed": false,
+                    "is_word_end": true
+                },
+                {
+                    "syllable": "pe",
+                    "is_stressed": false
+                },
+                {
+                    "syllable": "lli",
+                    "is_stressed": true
+                },
+                {
+                    "syllable": "co",
+                    "is_stressed": false,
+                    "is_word_end": true
+                },
+                {
+                    "syllable": "no",
+                    "is_stressed": true,
+                    "is_word_end": true
+                }
+            ],
+            "rhythm": {
+                "stress": "----+-+-",
+                "type": "pattern",
+                "length": 8
+            }
+        },
+        {
+            "tokens": [
+                {
+                    "word": [
+                        {
+                            "syllable": "Ve",
+                            "is_stressed": false
+                        },
+                        {
+                            "syllable": "rás",
+                            "is_stressed": true,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": -1
+                },
+                {
+                    "symbol": ","
+                },
+                {
+                    "word": [
+                        {
+                            "syllable": "ne",
+                            "is_stressed": false
+                        },
+                        {
+                            "syllable": "gan",
+                            "is_stressed": true
+                        },
+                        {
+                            "syllable": "do",
+                            "is_stressed": false,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": -2
+                },
+                {
+                    "symbol": ","
+                },
+                {
+                    "word": [
+                        {
+                            "syllable": "mi",
+                            "is_stressed": false,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": 0
+                },
+                {
+                    "word": [
+                        {
+                            "syllable": "pe",
+                            "is_stressed": true
+                        },
+                        {
+                            "syllable": "cho",
+                            "is_stressed": false,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": -2
+                },
+                {
+                    "symbol": ","
+                }
+            ],
+            "phonological_groups": [
+                {
+                    "syllable": "Ve",
+                    "is_stressed": false
+                },
+                {
+                    "syllable": "rás",
+                    "is_stressed": true,
+                    "is_word_end": true
+                },
+                {
+                    "syllable": "ne",
+                    "is_stressed": false
+                },
+                {
+                    "syllable": "gan",
+                    "is_stressed": true
+                },
+                {
+                    "syllable": "do",
+                    "is_stressed": false,
+                    "is_word_end": true
+                },
+                {
+                    "syllable": "mi",
+                    "is_stressed": false,
+                    "is_word_end": true
+                },
+                {
+                    "syllable": "pe",
+                    "is_stressed": true
+                },
+                {
+                    "syllable": "cho",
+                    "is_stressed": false,
+                    "is_word_end": true
+                }
+            ],
+            "rhythm": {
+                "stress": "-+-+--+-",
+                "type": "pattern",
+                "length": 8
+            }
+        },
+        {
+            "tokens": [
+                {
+                    "word": [
+                        {
+                            "syllable": "las",
+                            "is_stressed": false,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": 0
+                },
+                {
+                    "word": [
+                        {
+                            "syllable": "plu",
+                            "is_stressed": true
+                        },
+                        {
+                            "syllable": "mas",
+                            "is_stressed": false,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": -2
+                },
+                {
+                    "word": [
+                        {
+                            "syllable": "del",
+                            "is_stressed": false,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": 0
+                },
+                {
+                    "word": [
+                        {
+                            "syllable": "cie",
+                            "is_stressed": true
+                        },
+                        {
+                            "syllable": "go",
+                            "is_stressed": false,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": -2
+                },
+                {
+                    "word": [
+                        {
+                            "syllable": "dios",
+                            "is_stressed": true,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": -1
+                },
+                {
+                    "symbol": ";"
+                }
+            ],
+            "phonological_groups": [
+                {
+                    "syllable": "las",
+                    "is_stressed": false,
+                    "is_word_end": true
+                },
+                {
+                    "syllable": "plu",
+                    "is_stressed": true
+                },
+                {
+                    "syllable": "mas",
+                    "is_stressed": false,
+                    "is_word_end": true
+                },
+                {
+                    "syllable": "del",
+                    "is_stressed": false,
+                    "is_word_end": true
+                },
+                {
+                    "syllable": "cie",
+                    "is_stressed": true
+                },
+                {
+                    "syllable": "go",
+                    "is_stressed": false,
+                    "is_word_end": true
+                },
+                {
+                    "syllable": "dios",
+                    "is_stressed": true,
+                    "is_word_end": true
+                }
+            ],
+            "rhythm": {
+                "stress": "-+--+-+-",
+                "type": "pattern",
+                "length": 8
+            }
+        },
+        {
+            "tokens": [
+                {
+                    "word": [
+                        {
+                            "syllable": "ve",
+                            "is_stressed": false
+                        },
+                        {
+                            "syllable": "rás",
+                            "is_stressed": true,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": -1
+                },
+                {
+                    "symbol": ","
+                },
+                {
+                    "word": [
+                        {
+                            "syllable": "be",
+                            "is_stressed": false
+                        },
+                        {
+                            "syllable": "bien",
+                            "is_stressed": true
+                        },
+                        {
+                            "syllable": "do",
+                            "is_stressed": false,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": -2
+                },
+                {
+                    "symbol": ","
+                },
+                {
+                    "word": [
+                        {
+                            "syllable": "sus",
+                            "is_stressed": false,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": 0
+                },
+                {
+                    "word": [
+                        {
+                            "syllable": "pun",
+                            "is_stressed": true
+                        },
+                        {
+                            "syllable": "tas",
+                            "is_stressed": false,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": -2
+                },
+                {
+                    "symbol": ","
+                }
+            ],
+            "phonological_groups": [
+                {
+                    "syllable": "ve",
+                    "is_stressed": false
+                },
+                {
+                    "syllable": "rás",
+                    "is_stressed": true,
+                    "is_word_end": true
+                },
+                {
+                    "syllable": "be",
+                    "is_stressed": false
+                },
+                {
+                    "syllable": "bien",
+                    "is_stressed": true
+                },
+                {
+                    "syllable": "do",
+                    "is_stressed": false,
+                    "is_word_end": true
+                },
+                {
+                    "syllable": "sus",
+                    "is_stressed": false,
+                    "is_word_end": true
+                },
+                {
+                    "syllable": "pun",
+                    "is_stressed": true
+                },
+                {
+                    "syllable": "tas",
+                    "is_stressed": false,
+                    "is_word_end": true
+                }
+            ],
+            "rhythm": {
+                "stress": "-+-+--+-",
+                "type": "pattern",
+                "length": 8
+            }
+        },
+        {
+            "tokens": [
+                {
+                    "word": [
+                        {
+                            "syllable": "la",
+                            "is_stressed": false,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": 0
+                },
+                {
+                    "word": [
+                        {
+                            "syllable": "san",
+                            "is_stressed": true
+                        },
+                        {
+                            "syllable": "gre",
+                            "is_stressed": false,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": -2
+                },
+                {
+                    "word": [
+                        {
+                            "syllable": "del",
+                            "is_stressed": false,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": 0
+                },
+                {
+                    "word": [
+                        {
+                            "syllable": "co",
+                            "is_stressed": false
+                        },
+                        {
+                            "syllable": "ra",
+                            "is_stressed": false
+                        },
+                        {
+                            "syllable": "zón",
+                            "is_stressed": true,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": -1
+                },
+                {
+                    "symbol": "."
+                }
+            ],
+            "phonological_groups": [
+                {
+                    "syllable": "la",
+                    "is_stressed": false,
+                    "is_word_end": true
+                },
+                {
+                    "syllable": "san",
+                    "is_stressed": true
+                },
+                {
+                    "syllable": "gre",
+                    "is_stressed": false,
+                    "is_word_end": true
+                },
+                {
+                    "syllable": "del",
+                    "is_stressed": false,
+                    "is_word_end": true
+                },
+                {
+                    "syllable": "co",
+                    "is_stressed": false
+                },
+                {
+                    "syllable": "ra",
+                    "is_stressed": false
+                },
+                {
+                    "syllable": "zón",
+                    "is_stressed": true,
+                    "is_word_end": true
+                }
+            ],
+            "rhythm": {
+                "stress": "-+----+-",
+                "type": "pattern",
+                "length": 8
+            }
+        },
+        {
+            "tokens": [
+                {
+                    "word": [
+                        {
+                            "syllable": "To",
+                            "is_stressed": true
+                        },
+                        {
+                            "syllable": "das",
+                            "is_stressed": false,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": -2
+                },
+                {
+                    "word": [
+                        {
+                            "syllable": "me",
+                            "is_stressed": false,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": 0
+                },
+                {
+                    "word": [
+                        {
+                            "syllable": "las",
+                            "is_stressed": false,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": 0
+                },
+                {
+                    "word": [
+                        {
+                            "syllable": "fle",
+                            "is_stressed": false
+                        },
+                        {
+                            "syllable": "chó",
+                            "is_stressed": true,
+                            "has_synalepha": true,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": -1
+                },
+                {
+                    "word": [
+                        {
+                            "syllable": "el",
+                            "is_stressed": false,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": 0
+                },
+                {
+                    "word": [
+                        {
+                            "syllable": "dí",
+                            "is_stressed": true,
+                            "has_sinaeresis": true
+                        },
+                        {
+                            "syllable": "a",
+                            "is_stressed": false,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": -2
+                }
+            ],
+            "phonological_groups": [
+                {
+                    "syllable": "To",
+                    "is_stressed": true
+                },
+                {
+                    "syllable": "das",
+                    "is_stressed": false,
+                    "is_word_end": true
+                },
+                {
+                    "syllable": "me",
+                    "is_stressed": false,
+                    "is_word_end": true
+                },
+                {
+                    "syllable": "las",
+                    "is_stressed": false,
+                    "is_word_end": true
+                },
+                {
+                    "syllable": "fle",
+                    "is_stressed": false
+                },
+                {
+                    "syllable": "chóel",
+                    "is_stressed": true,
+                    "synalepha_index": [
+                        2
+                    ],
+                    "is_word_end": true
+                },
+                {
+                    "syllable": "día",
+                    "is_stressed": true,
+                    "sinaeresis_index": [
+                        1
+                    ],
+                    "is_word_end": true
+                }
+            ],
+            "rhythm": {
+                "stress": "+----++-",
+                "type": "pattern",
+                "length": 8
+            }
+        },
+        {
+            "tokens": [
+                {
+                    "word": [
+                        {
+                            "syllable": "que",
+                            "is_stressed": false,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": 0
+                },
+                {
+                    "word": [
+                        {
+                            "syllable": "tu",
+                            "is_stressed": false,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": 0
+                },
+                {
+                    "word": [
+                        {
+                            "syllable": "des",
+                            "is_stressed": false
+                        },
+                        {
+                            "syllable": "dén",
+                            "is_stressed": true,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": -1
+                },
+                {
+                    "word": [
+                        {
+                            "syllable": "lo",
+                            "is_stressed": false,
+                            "has_synalepha": true,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": 0
+                },
+                {
+                    "word": [
+                        {
+                            "syllable": "ha",
+                            "is_stressed": false
+                        },
+                        {
+                            "syllable": "lló",
+                            "is_stressed": true,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": -1
+                },
+                {
+                    "symbol": ","
+                }
+            ],
+            "phonological_groups": [
+                {
+                    "syllable": "que",
+                    "is_stressed": false,
+                    "is_word_end": true
+                },
+                {
+                    "syllable": "tu",
+                    "is_stressed": false,
+                    "is_word_end": true
+                },
+                {
+                    "syllable": "des",
+                    "is_stressed": false
+                },
+                {
+                    "syllable": "dén",
+                    "is_stressed": true,
+                    "is_word_end": true
+                },
+                {
+                    "syllable": "loha",
+                    "is_stressed": false,
+                    "synalepha_index": [
+                        1
+                    ]
+                },
+                {
+                    "syllable": "lló",
+                    "is_stressed": true,
+                    "is_word_end": true
+                }
+            ],
+            "rhythm": {
+                "stress": "---+-+-",
+                "type": "pattern",
+                "length": 7
+            }
+        },
+        {
+            "tokens": [
+                {
+                    "word": [
+                        {
+                            "syllable": "si",
+                            "is_stressed": false,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": 0
+                },
+                {
+                    "word": [
+                        {
+                            "syllable": "por",
+                            "is_stressed": false,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": 0
+                },
+                {
+                    "word": [
+                        {
+                            "syllable": "la",
+                            "is_stressed": false,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": 0
+                },
+                {
+                    "word": [
+                        {
+                            "syllable": "ven",
+                            "is_stressed": true
+                        },
+                        {
+                            "syllable": "da",
+                            "is_stressed": false,
+                            "has_synalepha": true,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": -2
+                },
+                {
+                    "word": [
+                        {
+                            "syllable": "u",
+                            "is_stressed": true
+                        },
+                        {
+                            "syllable": "na",
+                            "is_stressed": false,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": -2
+                },
+                {
+                    "word": [
+                        {
+                            "syllable": "vez",
+                            "is_stressed": true,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": -1
+                },
+                {
+                    "symbol": ","
+                }
+            ],
+            "phonological_groups": [
+                {
+                    "syllable": "si",
+                    "is_stressed": false,
+                    "is_word_end": true
+                },
+                {
+                    "syllable": "por",
+                    "is_stressed": false,
+                    "is_word_end": true
+                },
+                {
+                    "syllable": "la",
+                    "is_stressed": false,
+                    "is_word_end": true
+                },
+                {
+                    "syllable": "ven",
+                    "is_stressed": true
+                },
+                {
+                    "syllable": "dau",
+                    "is_stressed": true,
+                    "synalepha_index": [
+                        1
+                    ]
+                },
+                {
+                    "syllable": "na",
+                    "is_stressed": false,
+                    "is_word_end": true
+                },
+                {
+                    "syllable": "vez",
+                    "is_stressed": true,
+                    "is_word_end": true
+                }
+            ],
+            "rhythm": {
+                "stress": "---++-+-",
+                "type": "pattern",
+                "length": 8
+            }
+        },
+        {
+            "tokens": [
+                {
+                    "word": [
+                        {
+                            "syllable": "cie",
+                            "is_stressed": true
+                        },
+                        {
+                            "syllable": "go",
+                            "is_stressed": false,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": -2
+                },
+                {
+                    "symbol": ","
+                },
+                {
+                    "word": [
+                        {
+                            "syllable": "por",
+                            "is_stressed": false,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": 0
+                },
+                {
+                    "word": [
+                        {
+                            "syllable": "el",
+                            "is_stressed": false,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": 0
+                },
+                {
+                    "word": [
+                        {
+                            "syllable": "sue",
+                            "is_stressed": true
+                        },
+                        {
+                            "syllable": "ño",
+                            "is_stressed": false,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": -2
+                },
+                {
+                    "symbol": ","
+                },
+                {
+                    "word": [
+                        {
+                            "syllable": "dos",
+                            "is_stressed": true,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": -1
+                },
+                {
+                    "symbol": "."
+                }
+            ],
+            "phonological_groups": [
+                {
+                    "syllable": "cie",
+                    "is_stressed": true
+                },
+                {
+                    "syllable": "go",
+                    "is_stressed": false,
+                    "is_word_end": true
+                },
+                {
+                    "syllable": "por",
+                    "is_stressed": false,
+                    "is_word_end": true
+                },
+                {
+                    "syllable": "el",
+                    "is_stressed": false,
+                    "is_word_end": true
+                },
+                {
+                    "syllable": "sue",
+                    "is_stressed": true
+                },
+                {
+                    "syllable": "ño",
+                    "is_stressed": false,
+                    "is_word_end": true
+                },
+                {
+                    "syllable": "dos",
+                    "is_stressed": true,
+                    "is_word_end": true
+                }
+            ],
+            "rhythm": {
+                "stress": "+---+-+-",
+                "type": "pattern",
+                "length": 8
+            }
+        },
+        {
+            "tokens": [
+                {
+                    "word": [
+                        {
+                            "syllable": "No",
+                            "is_stressed": true,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": -1
+                },
+                {
+                    "word": [
+                        {
+                            "syllable": "las",
+                            "is_stressed": false,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": 0
+                },
+                {
+                    "word": [
+                        {
+                            "syllable": "ig",
+                            "is_stressed": false
+                        },
+                        {
+                            "syllable": "no",
+                            "is_stressed": true
+                        },
+                        {
+                            "syllable": "ras",
+                            "is_stressed": false,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": -2
+                },
+                {
+                    "symbol": ","
+                },
+                {
+                    "word": [
+                        {
+                            "syllable": "aun",
+                            "is_stressed": false
+                        },
+                        {
+                            "syllable": "que",
+                            "is_stressed": false,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": 0
+                }
+            ],
+            "phonological_groups": [
+                {
+                    "syllable": "No",
+                    "is_stressed": true,
+                    "is_word_end": true
+                },
+                {
+                    "syllable": "las",
+                    "is_stressed": false,
+                    "is_word_end": true
+                },
+                {
+                    "syllable": "ig",
+                    "is_stressed": false
+                },
+                {
+                    "syllable": "no",
+                    "is_stressed": true
+                },
+                {
+                    "syllable": "ras",
+                    "is_stressed": false,
+                    "is_word_end": true
+                },
+                {
+                    "syllable": "aun",
+                    "is_stressed": false
+                },
+                {
+                    "syllable": "que",
+                    "is_stressed": false,
+                    "is_word_end": true
+                }
+            ],
+            "rhythm": {
+                "stress": "+--+---",
+                "type": "pattern",
+                "length": 7
+            }
+        },
+        {
+            "tokens": [
+                {
+                    "word": [
+                        {
+                            "syllable": "las",
+                            "is_stressed": false,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": 0
+                },
+                {
+                    "word": [
+                        {
+                            "syllable": "se",
+                            "is_stressed": true
+                        },
+                        {
+                            "syllable": "ñas",
+                            "is_stressed": false,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": -2
+                },
+                {
+                    "word": [
+                        {
+                            "syllable": "de",
+                            "is_stressed": false,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": 0
+                },
+                {
+                    "word": [
+                        {
+                            "syllable": "tu",
+                            "is_stressed": false,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": 0
+                },
+                {
+                    "word": [
+                        {
+                            "syllable": "ri",
+                            "is_stressed": false
+                        },
+                        {
+                            "syllable": "gor",
+                            "is_stressed": true,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": -1
+                },
+                {
+                    "symbol": ","
+                }
+            ],
+            "phonological_groups": [
+                {
+                    "syllable": "las",
+                    "is_stressed": false,
+                    "is_word_end": true
+                },
+                {
+                    "syllable": "se",
+                    "is_stressed": true
+                },
+                {
+                    "syllable": "ñas",
+                    "is_stressed": false,
+                    "is_word_end": true
+                },
+                {
+                    "syllable": "de",
+                    "is_stressed": false,
+                    "is_word_end": true
+                },
+                {
+                    "syllable": "tu",
+                    "is_stressed": false,
+                    "is_word_end": true
+                },
+                {
+                    "syllable": "ri",
+                    "is_stressed": false
+                },
+                {
+                    "syllable": "gor",
+                    "is_stressed": true,
+                    "is_word_end": true
+                }
+            ],
+            "rhythm": {
+                "stress": "-+----+-",
+                "type": "pattern",
+                "length": 8
+            }
+        },
+        {
+            "tokens": [
+                {
+                    "word": [
+                        {
+                            "syllable": "sa",
+                            "is_stressed": true
+                        },
+                        {
+                            "syllable": "no",
+                            "is_stressed": false,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": -2
+                },
+                {
+                    "word": [
+                        {
+                            "syllable": "las",
+                            "is_stressed": false,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": 0
+                },
+                {
+                    "word": [
+                        {
+                            "syllable": "nie",
+                            "is_stressed": true
+                        },
+                        {
+                            "syllable": "ga",
+                            "is_stressed": false,
+                            "has_synalepha": true,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": -2
+                },
+                {
+                    "word": [
+                        {
+                            "syllable": "el",
+                            "is_stressed": false,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": 0
+                },
+                {
+                    "word": [
+                        {
+                            "syllable": "pe",
+                            "is_stressed": false
+                        },
+                        {
+                            "syllable": "lli",
+                            "is_stressed": true
+                        },
+                        {
+                            "syllable": "co",
+                            "is_stressed": false,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": -2
+                },
+                {
+                    "symbol": ","
+                }
+            ],
+            "phonological_groups": [
+                {
+                    "syllable": "sa",
+                    "is_stressed": true
+                },
+                {
+                    "syllable": "no",
+                    "is_stressed": false,
+                    "is_word_end": true
+                },
+                {
+                    "syllable": "las",
+                    "is_stressed": false,
+                    "is_word_end": true
+                },
+                {
+                    "syllable": "nie",
+                    "is_stressed": true
+                },
+                {
+                    "syllable": "gael",
+                    "is_stressed": false,
+                    "synalepha_index": [
+                        1
+                    ],
+                    "is_word_end": true
+                },
+                {
+                    "syllable": "pe",
+                    "is_stressed": false
+                },
+                {
+                    "syllable": "lli",
+                    "is_stressed": true
+                },
+                {
+                    "syllable": "co",
+                    "is_stressed": false,
+                    "is_word_end": true
+                }
+            ],
+            "rhythm": {
+                "stress": "+--+--+-",
+                "type": "pattern",
+                "length": 8
+            }
+        },
+        {
+            "tokens": [
+                {
+                    "word": [
+                        {
+                            "syllable": "mu",
+                            "is_stressed": true
+                        },
+                        {
+                            "syllable": "do",
+                            "is_stressed": false,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": -2
+                },
+                {
+                    "word": [
+                        {
+                            "syllable": "las",
+                            "is_stressed": false,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": 0
+                },
+                {
+                    "word": [
+                        {
+                            "syllable": "des",
+                            "is_stressed": false
+                        },
+                        {
+                            "syllable": "mien",
+                            "is_stressed": true
+                        },
+                        {
+                            "syllable": "to",
+                            "is_stressed": false,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": -2
+                },
+                {
+                    "word": [
+                        {
+                            "syllable": "yo",
+                            "is_stressed": true,
+                            "is_word_end": true
+                        }
+                    ],
+                    "stress_position": -1
+                },
+                {
+                    "symbol": "."
+                }
+            ],
+            "phonological_groups": [
+                {
+                    "syllable": "mu",
+                    "is_stressed": true
+                },
+                {
+                    "syllable": "do",
+                    "is_stressed": false,
+                    "is_word_end": true
+                },
+                {
+                    "syllable": "las",
+                    "is_stressed": false,
+                    "is_word_end": true
+                },
+                {
+                    "syllable": "des",
+                    "is_stressed": false
+                },
+                {
+                    "syllable": "mien",
+                    "is_stressed": true
+                },
+                {
+                    "syllable": "to",
+                    "is_stressed": false,
+                    "is_word_end": true
+                },
+                {
+                    "syllable": "yo",
+                    "is_stressed": true,
+                    "is_word_end": true
+                }
+            ],
+            "rhythm": {
+                "stress": "+---+-+-",
+                "type": "pattern",
+                "length": 8
+            }
+        }
+    ]
+}
