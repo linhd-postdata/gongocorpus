@@ -1,6 +1,6 @@
 # gongocorpus
 
-![Gongocorpus logo](https://github.com/linhd-postdata/gongocorpus/raw/master/gongocorpus.png)
+![Gongocorpus logo](https://github.com/linhd-postdata/gongocorpus/raw/master/gongocorpus-small.png)
 
 Corpus de poesía de Góngora con anotación métrica automática, basado en el corpus de OBVIL: http://obvil.sorbonne-universite.site/corpus/gongora/gongora_obra-poetica
 
