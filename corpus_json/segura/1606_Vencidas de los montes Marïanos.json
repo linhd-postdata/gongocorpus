@@ -3,7 +3,7 @@
     "authorship": "segura",
     "incipit": "Vencidas de los montes Marïanos",
     "year": "1606",
-    "text": "Vencidas de los montes Marïanos\nlas altas cumbres, con rigor armadas\nde calvos riscos, de hayas levantadas,\ncunas inaccesibles de milanos,\ny el río que a piratas africanos\nespadañas opone en vez de espadas\n(testigos son las torres coronadas\nde Lepe, cuando no lo sean los llanos),\npisado el yugo al Tajo y sus espumas,\nque salpicando os dorarán la espuela,\nel nido venerad humildemente\ndel Fénix hoy que reinos son sus plumas.\n¿Qué mucho, si el oriente es, cuando vuela,\nuna ala suya, y otra el occidente?",
+    "text": "Vencidas de los montes Marïanos\nlas altas cumbres, con rigor armadas\nde calvos riscos, de hayas levantadas,\ncunas inaccesibles de milanos,\n\ny el río que a piratas africanos\nespadañas opone en vez de espadas\n(testigos son las torres coronadas\nde Lepe, cuando no lo sean los llanos),\n\npisado el yugo al Tajo y sus espumas,\nque salpicando os dorarán la espuela,\nel nido venerad humildemente\n\ndel Fénix hoy que reinos son sus plumas.\n¿Qué mucho, si el oriente es, cuando vuela,\nuna ala suya, y otra el occidente?",
     "scanned_poem": [
         {
             "tokens": [
@@ -1582,7 +1582,7 @@
                         },
                         {
                             "syllable": "mil",
-                            "is_stressed": false
+                            "is_stressed": true
                         },
                         {
                             "syllable": "de",
@@ -1598,7 +1598,10 @@
                             "is_word_end": true
                         }
                     ],
-                    "stress_position": -2
+                    "stress_position": -4,
+                    "secondary_stress_positions": [
+                        -2
+                    ]
                 }
             ],
             "phonological_groups": [
@@ -1635,7 +1638,7 @@
                 },
                 {
                     "syllable": "mil",
-                    "is_stressed": false
+                    "is_stressed": true
                 },
                 {
                     "syllable": "de",
@@ -1652,7 +1655,7 @@
                 }
             ],
             "rhythm": {
-                "stress": "-+---+---+-",
+                "stress": "-+---+-+-+-",
                 "type": "pattern",
                 "length": 11
             }

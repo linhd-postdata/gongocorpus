@@ -3,7 +3,7 @@
     "authorship": "segura",
     "incipit": "Suspiros tristes, lágrimas cansadas,",
     "year": "1582",
-    "text": "Suspiros tristes, lágrimas cansadas,\nque lanza el corazón, los ojos llueven,\nlos troncos bañan y las ramas mueven\nde estas plantas a Alcides consagradas;\nmas del viento las fuerzas conjuradas\nlos suspiros desatan y remueven,\ny los troncos las lágrimas se beben,\nmal ellos y peor ellas derramadas.\nHasta en mi tierno rostro aquel tributo\nque dan mis ojos, invisible mano\nde sombra o de aire me lo deja enjuto,\npor que aquel ángel fieramente humano\nno crea mi dolor, y así es mi fruto\nllorar sin premio y suspirar en vano.",
+    "text": "Suspiros tristes, lágrimas cansadas,\nque lanza el corazón, los ojos llueven,\nlos troncos bañan y las ramas mueven\nde estas plantas a Alcides consagradas;\n\nmas del viento las fuerzas conjuradas\nlos suspiros desatan y remueven,\ny los troncos las lágrimas se beben,\nmal ellos y peor ellas derramadas.\n\nHasta en mi tierno rostro aquel tributo\nque dan mis ojos, invisible mano\nde sombra o de aire me lo deja enjuto,\n\npor que aquel ángel fieramente humano\nno crea mi dolor, y así es mi fruto\nllorar sin premio y suspirar en vano.",
     "scanned_poem": [
         {
             "tokens": [
@@ -1192,7 +1192,7 @@
                     "word": [
                         {
                             "syllable": "Has",
-                            "is_stressed": false
+                            "is_stressed": true
                         },
                         {
                             "syllable": "ta",
@@ -1201,7 +1201,7 @@
                             "is_word_end": true
                         }
                     ],
-                    "stress_position": 0
+                    "stress_position": -2
                 },
                 {
                     "word": [
@@ -1288,7 +1288,7 @@
             "phonological_groups": [
                 {
                     "syllable": "Has",
-                    "is_stressed": false
+                    "is_stressed": true
                 },
                 {
                     "syllable": "taen",
@@ -1343,7 +1343,7 @@
                 }
             ],
             "rhythm": {
-                "stress": "---+-+-+-+-",
+                "stress": "+--+-+-+-+-",
                 "type": "pattern",
                 "length": 11
             }
